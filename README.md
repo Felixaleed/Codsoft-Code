@@ -7,8 +7,3 @@ Calculator
 Task2:
 Password generator
 
-Task 3:
-Contact Book
-
-Task 4(optional):
-Rock-Paper-Scissors Game or To-Do-List
